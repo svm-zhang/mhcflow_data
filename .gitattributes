@@ -4,3 +4,9 @@ class_i/abc_complete.fasta filter=lfs diff=lfs merge=lfs -text
 class_i/abc_complete.fasta.fai filter=lfs diff=lfs merge=lfs -text
 class_i/abc_complete.nix filter=lfs diff=lfs merge=lfs -text
 class_i/abc_v14.uniq filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.ref.fasta.fai filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.ref.nix filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.ref.supertype.freq.tsv filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.bed filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.ref.38mer.tag filter=lfs diff=lfs merge=lfs -text
+class_ii/class2.ref.fasta filter=lfs diff=lfs merge=lfs -text
